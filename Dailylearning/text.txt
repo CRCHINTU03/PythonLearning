@@ -1,0 +1,3 @@
+try the os module properites 
+ have a new understanding of pythonif we do not want to rewrite the file 
+ use a method append instead of w write
